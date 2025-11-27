@@ -1,5 +1,5 @@
 <h1 align = "center ">
-## super-guacamole
+super-guacamole
 </h1>
 
 <h2 align = "center ">Daily updates of leet code problems</h2> 
